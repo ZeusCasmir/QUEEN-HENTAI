@@ -60,7 +60,7 @@ global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'
 
 
 global.wait = '*⚡ _Waiting Bro Uploading by ⚡ Zeus leventor ⚡..._*'
-global.rwait = '🇱🇰'
+global.rwait = '📡'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
